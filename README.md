@@ -9,8 +9,9 @@ I'm **Tejas Bangera**, a passionate Frontend Developer with a strong foundation 
 [![Twitter Badge](https://img.shields.io/badge/-@tejas__bangera-1ca0f1?style=flat&labelColor=000&logo=twitter&logoColor=white&color=000&link=https://twitter.com/tejas_bangera)](https://twitter.com/tejas_bangera) [![Linkedin Badge](https://img.shields.io/badge/-tejas--bangera-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejas-bangera/) [![Mail Badge](https://img.shields.io/badge/-tejas.bangera12@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:tejas.bangera12@gmail.com)
 [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-0e76a8?style=flat&labelColor=000&logo=leetcode&color=ffa116)](https://leetcode.com/Tejas_Bangera_97/)
 
-<!-- ### Resume
-:paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf) -->
+### Resume
+:paperclip: [My Resume/CV](https://github.com/Tejas-Bangera/Tejas-Bangera/files/12305715/Resume_Tejas_Bangera_09Aug23.pdf)
+
 
 ### About
 
