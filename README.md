@@ -10,9 +10,7 @@ I'm **Tejas Bangera**, a passionate Frontend Developer with a strong foundation 
 [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-0e76a8?style=flat&labelColor=000&logo=leetcode&color=ffa116)](https://leetcode.com/Tejas_Bangera_97/)
 
 ### Resume
-:paperclip: [My Resume/CV](https://github.com/Tejas-Bangera/Tejas-Bangera/files/12323133/General-Resume-Tejas-Bangera.pdf)
-
-
+:paperclip: [My Resume/CV](https://github.com/Tejas-Bangera/Tejas-Bangera/files/12342423/Overleaf-Resume-Tejas-Bangera-14-08-23.pdf)
 
 ### About
 
